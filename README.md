@@ -1,4 +1,4 @@
-<h1>Bolha Cripto</h1>
+<h1>Projeto - Bolha Cripto</h1>
 
 <img src="#" alt="Fork" style="max-width: 100%;">
 
