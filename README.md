@@ -22,7 +22,7 @@ O **Bolha Cripto** é uma plataforma descentralizada onde os usuários podem neg
 
 - Seu nome
 - Seu e-mail
-- Seu site (se houver)
+- Seu site
 
 ## Licença
 
