@@ -10,19 +10,19 @@ O **Bolha Cripto** é uma plataforma descentralizada onde os usuários podem neg
 - Plataforma descentralizada e segura.
 - Ausência de processos de verificação e burocracia.
 
-## Ferramentas Utilizadas 🛠️
+## Front-end 🛠️
 
-- HTML5 e CSS3 para a estrutura e estilização do site.
+- HTML5 e CSS3 para a estrutura e estilização do site. - Em andamento
 - JavaScript para funcionalidades interativas.
 - Framework Bootstrap para agilizar o desenvolvimento do frontend.
 - Git e GitHub para controle de versão e hospedagem do projeto.
 - VSCode como ambiente de desenvolvimento.
 
-## Autor
+## Desenvolvimento dinamico
 
-- Seu nome
-- Seu e-mail
-- Seu site
+- X
+- X
+- X
 
 ## Licença
 
