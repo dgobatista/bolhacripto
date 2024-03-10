@@ -1,16 +1,29 @@
-<h1>Projeto - Bolha Cripto</h1>
+# Projeto - Bolha Cripto 💰📈
 
-<img src="#" alt="Fork" style="max-width: 100%;">
+## Sobre o Projeto ℹ️
 
-<p><strong>🎯 Objetivo:</strong> Site criado utilizando exercícios de todas as aulas da Faculdade Descomplica do módulo de Front-end.</p>
+O **Bolha Cripto** é uma plataforma descentralizada onde os usuários podem negociar criptomoedas diretamente entre si, sem a necessidade de verificação ou burocracia. Nosso objetivo é fornecer uma maneira fácil e segura para as pessoas negociarem ativos digitais.
 
+## Funcionalidades 🚀
 
-<h2>⚙️ Front-end:</h2>
-<blockquote>
-<ul class="contains-task-list">
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Bootstrap</code>;</li>
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> HTML + CSS</li>
-</ul>
-</blockquote>
+- Negociação direta entre usuários.
+- Plataforma descentralizada e segura.
+- Ausência de processos de verificação e burocracia.
 
-<p><strong>ℹ Sobre o projeto:</strong> Plataforma para negociar criptomoedas diretamente com outros usuários. Sem verificação, sem burocracia. Comece a negociar agora!</p>
+## Ferramentas Utilizadas 🛠️
+
+- HTML5 e CSS3 para a estrutura e estilização do site.
+- JavaScript para funcionalidades interativas.
+- Framework Bootstrap para agilizar o desenvolvimento do frontend.
+- Git e GitHub para controle de versão e hospedagem do projeto.
+- VSCode como ambiente de desenvolvimento.
+
+## Autor
+
+- Seu nome
+- Seu e-mail
+- Seu site (se houver)
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
