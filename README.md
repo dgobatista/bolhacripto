@@ -1,4 +1,4 @@
-# Projeto - Bolha Cripto
+# Bolha Cripto
 
 ## Sobre o Projeto ℹ️
 
